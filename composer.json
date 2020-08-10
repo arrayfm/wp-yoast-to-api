@@ -1,0 +1,14 @@
+{
+  "name": "arrayfm/wp-yoast-to-api",
+  "type": "wordpress-plugin",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "AryWPYoastToAPI\\": "app"
+    }
+  },
+  "require": {
+    "composer/installers": "^1.0"
+  },
+  "prefer-stable": true
+}
