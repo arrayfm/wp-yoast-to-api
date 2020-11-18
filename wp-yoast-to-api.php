@@ -13,7 +13,7 @@ if(!defined('ABSPATH')){
   exit;
 }
 
-define('ARY_AFS_VERSION', '0.0.1');
+define('ARY_Y2A_VERSION', '0.0.1');
 
 $autoload_file = __DIR__ . '/vendor/autoload.php';
 if(is_readable($autoload_file)){
